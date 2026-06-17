@@ -46,6 +46,7 @@ I believe in balancing **budget with visual impact**, keeping hard finishes simp
 
 You can view or download my full portfolio here:  
 👉 **[Download Portfolio (PDF)](EleanorYuan_Portfolio_2026.pdf)**  
+https://github.com/Eleanoryuan/interior-design-portfolio/blob/0de6e4f30a49bedaf16b9a0cff70f6c9a11cf4c4/EleanorYuan_Portfolio_2026.pdf
 
 ---
 

@@ -47,8 +47,6 @@ I believe in balancing **budget with visual impact**, keeping hard finishes simp
 You can view or download my full portfolio here:  
 👉 **[Download Portfolio (PDF)](EleanorYuan_Portfolio_2026.pdf)**  
 
-*(Replace `your-portfolio-file.pdf` with the actual file name after uploading to this repository)*
-
 ---
 
 ## Contact

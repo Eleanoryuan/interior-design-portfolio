@@ -9,9 +9,11 @@ Interior design portfolio showcasing commercial, hospitality, and residential pr
 
 ## About Me
 
-I am an interior designer with over 10 years of professional experience, holding a Bachelor of Arts in Art Design from Shandong University, China. My work focuses on creating thoughtful, functional, and visually compelling spaces across a wide range of project types.
+I am Yuan Keqin (Eleanor), an ICDA-certified Interior Designer and Display Art Designer, with over ten years of professional experience in the field. I hold a Bachelor's degree from Shandong University, China.
 
-I have completed interior design projects for more than 10 clients across 5 countries, delivering services from initial concept through to construction documentation and furniture sourcing.
+My work is dedicated to creating spaces that are conceptually compelling, functionally sound, and visually striking across a diverse range of project types. I have successfully completed interior design projects for over ten clients in five countries, offering a full spectrum of services—from initial concept development and design documentation to construction drawings and furniture procurement.
+
+I am passionate about translating client visions into built realities, and I bring a global perspective and meticulous attention to detail to every project I undertake.
 
 ---
 

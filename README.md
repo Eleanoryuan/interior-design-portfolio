@@ -60,3 +60,43 @@ https://github.com/Eleanoryuan/interior-design-portfolio/blob/0de6e4f30a49bedaf1
 ---
 
 © 2026 Eleanor Yuan – All rights reserved.
+# My Design Portfolio
+
+Welcome to my design portfolio. Below is a selection of my work.
+
+---
+
+## CONCEPT DESIGN
+
+- [Project 1 Concept](01_CONCEPT_DESIGN/Gaoxin Forest City Sales Center Interior Concept Proposal.pdf)
+- [Project 2 Concept](01_CONCEPT_DESIGN/Hotel Concept Design.pdf)
+- [Project 3 Concept](01_CONCEPT_DESIGN/[ELEANOR] Jinan Olympic Sports . Wenyutai Villa Design Proposal 0105.pdf)
+
+
+
+## RENDERINGS
+
+- [Project 1 Renderings](02_RENDERINGS/RENDERING PORTFOLIO-Eleanor.pdf)
+
+
+
+## CONSTRUCTION DRAWINGS
+
+- [Project 1 Construction Drawings](03_CONSTRUCTION_DRAWINGS/Hotel Construction Drawing Set1.pdf)
+- [Project 2 Construction Drawings](03_CONSTRUCTION_DRAWINGS/Hotel_GuestRoom_CD_Set.pdf)
+
+
+## MATERIALS SPECIFICATIONS
+
+- [Project 1 Materials Manual](04_MATERIALS_SPECIFICATIONS/Interior Materials Manual.pdf)
+
+
+## 360° VIRTUAL TOURS
+
+- [Project 1 Virtual Tour](https://vr.justeasy.cn/view/81768960vl39bu12-1768990144.html)
+- [Project 2 Virtual Tour](https://vr.justeasy.cn/view/1v7513w56j95l1m1-1758796689.html)
+- [Project 3 Virtual Tour](https://vr.justeasy.cn/view/lh17pyg536189g18-1775805598.html)
+
+---
+
+📧 Contact: keqinyuan616@gmail.com
